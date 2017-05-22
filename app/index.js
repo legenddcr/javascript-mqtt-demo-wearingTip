@@ -13,7 +13,7 @@ app.use(ctx => {
 });
 
 // Replace original web server port 3000
-// Client can access by: https://node-js-practrice-legenddcr.c9users.io:8082/
+// Client can access by: https://<url>:8082/
 app.listen(8082);
 
 //mqtt
